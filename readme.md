@@ -33,7 +33,7 @@ To improve real-world robustness, we introduce **cross-scene domain adaptation b
 | Dataset     |  Download Link   |
 |:------------|:----------------:|
 | SanDiego    | [Google Drive](https://drive.google.com/file/d/1lWOUSpMoIRrMngmIGETXglSYEZWljSXa/view?usp=sharing) |
-| Camo        | [Google Drive](https://drive.google.com/file/d/1hjpwV5U3K-E2DhaOBfgm-G82D8xC5Ias/view?usp=sharing) |
+| Camo        | Upon Request |
 | SSD         | [Google Drive](https://drive.google.com/file/d/1riN-3BZnn19Euub7dF6qFTukmHy99F1X/view?usp=sharing) |
 | SSDE        | [Google Drive](https://drive.google.com/file/d/1G30SjbhcRMX0VpwnPhU4roshq0mMJoiS/view?usp=sharing) |
 | ABU-Airport | [Google Drive](https://drive.google.com/file/d/1HkMML3jV1O780j3uDFNLt0ThSFcxFFtJ/view?usp=sharing) |
