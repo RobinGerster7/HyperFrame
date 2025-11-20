@@ -107,15 +107,12 @@ HyperFrame includes implementations of several research papers focusing on robus
 If TASR proves useful to your work, please consider starring this repository ⭐ and citing:
 
 ```
-@article{gerster2025towards,
-  title={Towards Robust Hyperspectral Target Detection via Test-Time Spectrum Adaptation},
+@article{gerster2025multi,
+  title={Multi-Source Adaptive Constrained Energy Minimization for Hyperspectral Target Detection on Lightweight Platforms},
   author={Gerster, Robin and St{\"u}tz, Peter},
-  journal={Remote Sensing},
-  volume={17},
-  number={16},
-  pages={2756},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
   year={2025},
-  publisher={MDPI}
+  publisher={IEEE}
 }
 ```
 
