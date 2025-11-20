@@ -1,0 +1,4 @@
+# Ignore datasets and results_hcem directories
+datasets/
+results_hcem/
+.idea/
